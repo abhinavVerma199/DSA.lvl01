@@ -1,16 +1,6 @@
 #include <iostream>
 using namespace std;
-
 #define AUTHOR "Lakshay"
-
-int main()
-{
-   
-
-
-return 0;
-}
-
 int main(){
     int a;
    std:: cin >> a;
