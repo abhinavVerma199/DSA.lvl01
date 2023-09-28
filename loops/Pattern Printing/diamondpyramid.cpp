@@ -3,6 +3,9 @@ using namespace std;
 
 int main(){
     
+// flip solid diamond using grid
+
+
     int num = 8;
 
     int n = 4;
