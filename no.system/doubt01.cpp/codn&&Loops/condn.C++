@@ -13,6 +13,6 @@ if(num > 0){
 else if(num < 0){
 
 }
-  cout << ""
+  cout << "     ";
 }
 
